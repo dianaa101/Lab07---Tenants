@@ -1,4 +1,5 @@
 --- Administrator bloc ---
+
 Creați o aplicație care permite: 
 · gestiunea unei liste de locatari. Locatar: apartament, nume proprietar, suprafața, tip apartament 
 · adăugare, ștergere, modificare și afișare locatari 
